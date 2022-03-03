@@ -48,7 +48,7 @@ Thanks For Donate
 ---|---
 [Dika](https://github.com/DikaArdnt)  | [Nurutomo](https://github.com/Nurutomo)
 Owner Hisoka-Morou | Constributor |
-<a href="https://github.com/MhankBarBar"><img src="https://github.com/MhankBarBar.png?size=100" width="100" height="100"></a> | [![ZEEONE OFC](https://github.com/zeeoneofc.png?size=100)](https://github.com/zeeoneofc) 
+<a href="https://github.com/MhankBarBar"><img src="https://github.com/MhankBarBar.png?size=100" width="100" height="100"></a> | [![ZEEONE OFC](https://github.com/zeeone-ofc.png?size=100)](https://github.com/zeeon-eofc) 
 [Mhankbarbar](https://github.com/MhankBarBar)  | [Zeeone Ofc](https://github.com/zeeoneofc)
 Constributor | Owner of Alphabot |
 <a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![FBOTZ YT](https://github.com/FBOTZ-YT.png?size=100)](http://github.com/FBOTZ-YT) 
